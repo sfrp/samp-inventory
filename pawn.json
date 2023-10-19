@@ -5,7 +5,7 @@
     "output": "test.amx",
     "dependencies": [
         "sampctl/samp-stdlib",
-        "ScavengeSurvive/container",
+        "sfrp/samp-container",
         "pawn-lang/YSI-Includes",
         "Southclaws/samp-logger",
         "samp-incognito/samp-streamer-plugin:v2.9.3"
