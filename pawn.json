@@ -1,6 +1,6 @@
 {
-    "user": "ScavengeSurvive",
-    "repo": "inventory",
+    "user": "sfrp",
+    "repo": "samp-inventory",
     "entry": "test.pwn",
     "output": "test.amx",
     "dependencies": [
